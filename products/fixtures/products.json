@@ -1,0 +1,1500 @@
+[
+    {
+       "pk": 1,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201877",
+          "name": "summery",
+          "description": "A wild and summery bouquet with seasonal flowers - roses, thistles and prairie bell.Perfect courtship to say congratulations, I like you or just show consideration and love now during the summer.",
+          "price": 50.8,
+          "category": "1",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201557.jpg",
+          "image": "BB45(2).jpg"
+       }
+    },
+    {
+       "pk": 2,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201192",
+          "name": "Pink Lilis",
+          "description": "No matter in which room you place a stately bouquet of lilies, it adorns its place. Send a bouquet of pink lovely lilies to someone you want to court!",
+          "price": 42.07,
+          "category": "1",
+          "rating": 4.7,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201192.jpg",
+          "image": "BB45 (1).jpg"
+       }
+    },
+    {
+       "pk": 3,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201730-1077",
+          "name": "Flower Joy",
+          "description": "Give away Flower Joy that lasts extra long! This mammoth bouquet contains lilies, germini, carnations and alstromeria. All these flower varieties live a long time if they get a little extra care. Give them new water and a new cut surface often so you can enjoy the flower for a long time. Table of Contents:Sugar, cocoa mass, whole milk powder, cocoa butter, emulsifiers: soy lecithin, flavorings. * May contain traces of milk, nuts and gluten from cereals.",
+          "price": 48.5,
+          "category": "1",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/fardiga-paket/1201729-1077.jpg",
+          "image": "BB45 (1).jpg"
+       }
+    },
+    {
+       "pk": 4,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201665",
+          "name": "Rosdröm",
+          "description": "Our fantastic Rosdröm, a favorite for the rose lover who wants a little romance and green! In addition to roses, it also contains alstroemeria, thistles and greenery.",
+          "price": 112.78,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201540.jpg",
+          "image": "BB45 (4).jpg"
+       }
+    },
+    {
+       "pk": 5,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201407",
+          "name": "Love Favorite",
+          "description": "A perfect surprise bouquet that suits every occasion you want to pay tribute to love.The bouquet is in pink and purple tones and contains roses, prairie bell, alstroemeria and mixed green.",
+          "price": 52.01,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201407-3.jpg",
+          "image": "BB45 (5).jpg"
+       }
+    },
+    {
+       "pk": 6,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201652",
+          "name": "Pastel Roses ",
+          "description": "Trendy pastel roses in a lovely mix with eucalyptus. A beautiful and sober bouquet - perfect for courting someone you like !.",
+          "price": 50.8,
+          "category": "1",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201652.jpg",
+          "image": "BB45 (6).jpg"
+       }
+    },
+    {
+       "pk": 7,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201390",
+          "name": "Pink with Teddy",
+          "description": "Nice bouquet in pink tones that includes roses and pistachios. Comes with a cute teddy bear. The teddy bear is about 13 cm.",
+          "price": 53.18,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201390.jpg",
+          "image": "BB45 (7).jpg"
+       }
+    },
+    {
+       "pk": 8,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201156",
+          "name": "Caring",
+          "description": "Caring is a great favorite and is, as the name suggests, a lovely bouquet, perfect when you want to show care and appreciation. The bouquet is in sober colors and contains carnations, roses, alstroemeria and green - a safe card no matter who you want to surprise!",
+          "price": 43.83,
+          "category": "1",
+          "rating": 4.5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201156-3.jpg",
+          "image": "BB45 (1).jpg"
+       }
+    },
+    {
+       "pk": 9,
+       "model": "products.product",
+       "fields": {
+          "sku": "1202247",
+          "name": "Extra Joy ",
+          "description": "This sheer bouquet contains lilies, germini, carnations, alstroemeria and mixed greens. All these flower varieties live a long time if they get a little extra care. Give them new water and a new cut surface often so you can enjoy the flower for a long time.",
+          "price": 46.16,
+          "category": "1",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/buketter/1202247.jpg",
+          "image": "BB45 (9).jpg"
+       }
+    },
+    {
+       "pk": 10,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201437",
+          "name": "Purple & Green",
+          "description": "A fabulous bouquet in purple and green tones in a wild and sprawling style for those with a romantic taste. The shimmering purple bouquet contains roses, prairie bells, limonium and green.",
+          "price": 49.67,
+          "category": "1",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201437.jpg",
+          "image": "BB45 (10).jpg"
+       }
+    },
+    {
+       "pk": 11,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201877",
+          "name": "Hug",
+          "description": "Wonderful bouquet of apricot and lime. The bouquet contains, among other things, large chrysanthemums, carnations and germini, along with filling greens. Medium and large variety also contains roses.",
+          "price": 41.49,
+          "category": "1",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201348.jpg",
+          "image": "BB45 (11).jpg"
+       }
+    },
+    {
+       "pk": 12,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201388",
+          "name": "White & purple",
+          "description": "A nice bouquet in white and purple / blue tones that contains, among other things, roses, alstromeria and germini. Delivered with a cute teddy bear.",
+          "price": 77.72,
+          "category": "1",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201388.jpg",
+          "image": "BB45 (12).jpg"
+       }
+    },
+    {
+       "pk": 13,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201156-1005",
+          "name": "Love & Caring",
+          "description": "Caring is a great favorite and is, as the name suggests, a lovely bouquet, perfect when you want to show care and appreciation. The bouquet is in sober colors and is a safe bet no matter who you want to surprise! Contains carnations, roses, alstroemeria and greens. Give a gift with the little extra together with our cute little teddy bear from Bukowski Design. The teddy bear is about 13 cm.",
+          "price": 52.59,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/fardiga-paket/1201156_1005_4.jpg",
+          "image": "BB45 (13).jpg"
+       }
+    },
+    {
+       "pk": 14,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201553",
+          "name": "The Pink-Purple ",
+          "description": "Give a colorful bouquet to a colorful person! The Pink-Purple bouquet contains roses, prairie bells, limonium and green and is a real mood enhancer, the perfect gift to surprise with!",
+          "price": 46.16,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201553.jpg",
+          "image": "BB45 (14).jpg"
+       }
+    },
+    {
+       "pk": 15,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201528",
+          "name": "A lovely Dream",
+          "description": "This bouquet is a lovely dream in pink and white! Contains roses, prairie bell, alstromeria and green.",
+          "price": 67.2,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201528.jpg",
+          "image": "BB45 (15).jpg"
+       }
+    },
+    {
+       "pk": 16,
+       "model": "products.product",
+       "fields": {
+          "sku": "1202278",
+          "name": "Magical Peony",
+          "description": "“This romantic bouquet is a tribute to the best flower of early summer, the peony. Large full-bodied peonies, mixed with more closed and knobby. For me, it is just as important that the bouquet is wow upon delivery as that it should last a long time. ”",
+          "price": 221.47,
+          "category": "1",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/masterflorist/2021/johan-munter/1202277.jpg",
+          "image": "BB45 (16).jpg"
+       }
+    },
+    {
+       "pk": 17,
+       "model": "products.product",
+       "fields": {
+          "sku": "1204056",
+          "name": "lovely box, Small",
+          "description": "Court someone with this lovely box - a luxurious gift and gift that will be an eye-catcher wherever it stands. The box is a decoration of pink roses and green. The diameter of the box is about 14.5 cm. The flowers are decorated in pulp and the decoration should be watered if necessary.",
+          "price": 48.79,
+          "category": "2",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1204056-2.jpg",
+          "image": "Rom1.jpg"
+       }
+    },
+    {
+       "pk": 18,
+       "model": "products.product",
+       "fields": {
+          "sku": "1202191",
+          "name": "Romantic Box, Small ",
+          "description": "The romantic box is a decoration of red roses, light pink prairie bells, pink alstroemeria, and mixed green. The diameter of the box is about 14.5 cm. The flowers are decorated in pulp and the decoration should be watered if necessary.",
+          "price": 41.89,
+          "category": "2",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1202191-2.jpg",
+          "image": "Rom2.jpg"
+       }
+    },
+    {
+       "pk": 19,
+       "model": "products.product",
+       "fields": {
+          "sku": "1204057",
+          "name": "Pink Rose, Large",
+          "description": "Court someone with this lovely box - a luxurious gift and gift that will be an eye-catcher wherever it stands. The box is a decoration of pink roses and green. The diameter of the box is about 18 cm. The flowers are decorated in pulp and the decoration should be watered if necessary.",
+          "price": 68.5,
+          "category": "2",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1204057-2.jpg",
+          "image": "Rom3.jpg"
+       }
+    },
+    {
+       "pk": 20,
+       "model": "products.product",
+       "fields": {
+          "sku": "1204054",
+          "name": "Red Rose Box, Small",
+          "description": "The box is a decoration of red roses and green. The diameter of the box is about 14.5 cm. The flowers are decorated in pulp and the decoration should be watered if necessary.",
+          "price": 48.79,
+          "category": "2",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201557.jpghttps://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1204054-2.jpg",
+          "image": "Rom4.jpg"
+       }
+    },
+    {
+       "pk": 21,
+       "model": "products.product",
+       "fields": {
+          "sku": "1204055",
+          "name": "Red Rose Box, Large",
+          "description": "The box is a decoration of red roses and green. The diameter of the box is about 14.5 cm. The flowers are decorated in pulp and the decoration should be watered if necessary.",
+          "price": 68.5,
+          "category": "2",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1204055-2.jpg",
+          "image": "Rom5.jpg"
+       }
+    },
+    {
+       "pk": 22,
+       "model": "products.product",
+       "fields": {
+          "sku": "1202192",
+          "name": "Red Roses",
+          "description": "The romantic box is a decoration of red roses, light pink prairie bells, pink alstroemeria, and mixed green. The diameter of the box is about 18 cm. The flowers are decorated in pulp and the decoration should be watered if necessary.",
+          "price": 58.65,
+          "category": "2",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1202192-2.jpg",
+          "image": "Rom6.jpg"
+       }
+    },
+    {
+       "pk": 23,
+       "model": "products.product",
+       "fields": {
+          "sku": "1211061",
+          "name": "Blue Box",
+          "description": "perfect to give away as a gift! Our blue bag contains a hydrangea, ivy and lavender or something similar.",
+          "price": 61.6,
+          "category": "3",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1211061.jpg",
+          "image": "box1.jpg"
+       }
+    },
+    {
+       "pk": 24,
+       "model": "products.product",
+       "fields": {
+          "sku": "1211060",
+          "name": "The Mediterranean Treasury",
+          "description": "perfect to give away to someone who is going to arrange nicely on their balcony or patio. Our Mediterranean box contains an olive tree, an ivy and a lavender or similar plant.",
+          "price": 68.5,
+          "category": "3",
+          "rating": 4.8,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1211060-2.jpg",
+          "image": "box2.jpg"
+       }
+    },
+    {
+       "pk": 25,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201960",
+          "name": "The summer box",
+          "description": "The summer box contains the bouquet of summer happiness, a wild and summery bouquet with seasonal flowers, a finer greeting card and a bottle of sparkling apple juice, 750 ml. Produced in France.",
+          "price": 57.66,
+          "category": "3",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/fardiga-paket/1201959-2021.jpg",
+          "image": "box3.jpg"
+       }
+    },
+    {
+       "pk": 26,
+       "model": "products.product",
+       "fields": {
+          "sku": "1211059",
+          "name": "The pink box ",
+          "description": " perfect to give as a gift, or just to show a little extra appreciation. The pink box contains two pink geraniums and an ivy. Plant in a pot or in a balcony box.",
+          "price": 45.83,
+          "category": "3",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1211059.jpg",
+          "image": "box4.jpg"
+       }
+    },
+    {
+       "pk": 27,
+       "model": "products.product",
+       "fields": {
+          "sku": "1211071",
+          "name": "Pink potted roses",
+          "description": "Two pink potted roses in Interflora's luxury bag. Give away a wonderful early summer feeling with Roskassen. The potted roses are delivered wrapped in waxed paper.",
+          "price": 27.11,
+          "category": "3",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1211071.jpg",
+          "image": "box5.jpg"
+       }
+    },
+    {
+       "pk": 28,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201977",
+          "name": "Fabulous Month",
+          "description": " pink tones with hints of white and green, our little chocolate cone about 56 grams with chocolate hearts of light and dark chocolate and a bottle of sparkling apple juice, 750 ml. Produced in France.Table of contents chocolate strudel: Sugar, cocoa mass, whole milk powder, cocoa butter, emulsifiers: soy lecithin, flavorings. * May contain traces of milk, nuts and gluten from cereals.",
+          "price": 50.76,
+          "category": "3",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1201976.jpg",
+          "image": "box6.jpg"
+       }
+    },
+    {
+       "pk": 29,
+       "model": "products.product",
+       "fields": {
+          "sku": "1211067",
+          "name": "Fondness",
+          "description": "This fondness bouquet contains roses, carnations, alstroemeria and greenery. The box includes a finer greeting card. Delivered together with our chocolate box with 9 luxurious and tasty pralines of about 100 g. Ingredients: Chocolate, pistachios, almonds, freeze-dried raspberries, licorice powder, milk protein, alcohol. * May contain traces of peanuts.",
+          "price": 50.76,
+          "category": "3",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1201955-2021.jpg",
+          "image": "box7.jpg"
+       }
+    },
+    {
+       "pk": 30,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201964",
+          "name": "Love Box",
+          "description": "It contains the classic love flower - red roses. Choose between 20, 30, 40 or 50 pieces in a bouquet. With the roses also comes our finest chocolate which contains 15 luxurious and tasty pralines of about 172 grams. Ingredients: Chocolate, pistachios, almonds, oranges, freeze-dried raspberries, licorice powder, milk protein, alcohol. * May contain traces of peanuts and nuts.",
+          "price": 193.68,
+          "category": "3",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1201964.jpg",
+          "image": "box8.jpg"
+       }
+    },
+    {
+       "pk": 31,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201652",
+          "name": "Pastel Roses ",
+          "description": "Trendy pastel roses in a lovely mix with eucalyptus. A beautiful and sober bouquet - perfect for courting someone you like !. Select the number of roses to determine the size of the bouquet.",
+          "price": 48.79,
+          "category": "4",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/miljobilder/1201652_m2.jpg",
+          "image": "PASTEL ROSES.jpg"
+       }
+    },
+    {
+       "pk": 32,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201657",
+          "name": "Pink Roses",
+          "description": "A bouquet of beautiful pink roses. Choose between 20, 30, 40 or 50 pieces. The perfect big courtship.",
+          "price": 176.93,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201658.jpg",
+          "image": "pink.jpg"
+       }
+    },
+    {
+       "pk": 33,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201969",
+          "name": "Romantic Surprise",
+          "description": "The romantic bag contains the classic love flower - red roses. Choose between 10.20 or 30 pieces in a bouquet for the person you want to court. This bag also includes a nice tin box with 150 grams of jelly hearts. Table of Contents: Glucose syrup, sugar, acidity regulator (E330), gelatin / stabilizer (agar), dye (E120), flavorings.",
+          "price": 83.29,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1201969.jpg",
+          "image": "rose0.jpg"
+       }
+    },
+    {
+       "pk": 34,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201806-1064",
+          "name": "Red Roses With Jelly Hearts",
+          "description": "A bouquet of 10 red roses is the perfect courtship and always just as relevant. Comes with a nice tin box with good jelly hearts, 150 grams. Table of Contents: Glucose syrup, sugar, acidity regulator (E330), gelatin / stabilizer (agar), dye (E120), flavorings.",
+          "price": 66.53,
+          "category": "4",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1201806-164-2021.jpg",
+          "image": "rose1.jpg"
+       }
+    },
+    {
+       "pk": 35,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201066",
+          "name": "Red roses ",
+          "description": "Red roses are always just as popular when you want to show how you feel. Here is our classic bouquet with 12 red roses that is always equally appreciated.",
+          "price": 70.97,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201066_2.jpg",
+          "image": "rose2.jpg"
+       }
+    },
+    {
+       "pk": 36,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201806",
+          "name": "10 ROSES ",
+          "description": "A bouquet of red roses is the perfect courtship and always just as relevant.",
+          "price": "58.65",
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1201806-2021.jpg",
+          "image": "rose3.jpg"
+       }
+    },
+    {
+       "pk": 37,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201541",
+          "name": "30 Roses ",
+          "description": "With a courtship with this bouquet of 30 red roses, your greeting will not go unnoticed.",
+          "price": 176.93,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201541.jpg",
+          "image": "rose6.jpg"
+       }
+    },
+    {
+       "pk": 38,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201806-1079",
+          "name": "Roses with chocolate box",
+          "description": "A bouquet of 10 red roses is the perfect courtship and always just as relevant. Delivered together with our chocolate box with 9 luxurious and tasty pralines of about 100 g. Ingredients: Chocolate, pistachios, almonds, freeze-dried raspberries, licorice powder, milk protein, alcohol. * May contain traces of peanuts.",
+          "price": 68.01,
+          "category": "4",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/alla-hjartans-dag-2021/1201806-1079-2021.jpg",
+          "image": "rose7.jpg"
+       }
+    },
+    {
+       "pk": 39,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201964",
+          "name": "Classic love flower ",
+          "description": "t contains the classic love flower - red roses. Choose between 20, 30, 40 or 50 pieces in a bouquet. With the roses also comes our finest chocolate which contains 15 luxurious and tasty pralines of about 172 grams. Ingredients: Chocolate, pistachios, almonds, oranges, freeze-dried raspberries, licorice powder, milk protein, alcohol. * May contain traces of peanuts and nuts.",
+          "price": 193.68,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/kassar/1201964.jpg",
+          "image": "rose8.jpg"
+       }
+    },
+    {
+       "pk": 40,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201637",
+          "name": "20 Roses ",
+          "description": "A given bouquet for the perfect courtship. Show your love in a classic way and pamper your recipient with this beautiful bouquet.",
+          "price": 117.79,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/rosor/1201637-2.jpg",
+          "image": "rose9.jpg"
+       }
+    },
+    {
+       "pk": 41,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201637-1079",
+          "name": "20 Roses with Chocolate",
+          "description": "A given bouquet for the perfect courtship. Show your love in a classic way and pamper your recipient with this beautiful bouquet. Delivered together with our chocolate box with 9 luxurious and tasty pralines of about 100 g. Ingredients: Chocolate, pistachios, almonds, freeze-dried raspberries, licorice powder, milk protein, alcohol. * May contain traces of peanuts.",
+          "price": 157.21,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/fardiga-paket/1201637-1079.jpg",
+          "image": "rose34.jpg"
+       }
+    },
+    {
+       "pk": 42,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201263",
+          "name": "5 Roses",
+          "description": "Wonderful red roses! Five red roses together with steelgras.",
+          "price": 29.08,
+          "category": "4",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201263.jpg",
+          "image": "rose35.jpg"
+       }
+    },
+    {
+       "pk": 43,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201638",
+          "name": "40 Roses",
+          "description": "When you want to show that extra! Bouquet of 40 red roses.",
+          "price": 236.07,
+          "category": "4",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/rosor/1201638-2.jpg",
+          "image": "rose47.jpg"
+       }
+    },
+    {
+       "pk": 44,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201343",
+          "name": "24 Red Roses",
+          "description": "All good things are 24! This is a grandiose declaration of love to someone you love.",
+          "price": 141.44,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201082.jpg",
+          "image": "rose78.jpg"
+       }
+    },
+    {
+       "pk": 45,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201574",
+          "name": "Surprise",
+          "description": "Surprise someone with a summer bouquet! This classic bouquet is available in red, blue and white. Contains roses, chrysanthemums, veronica and dewdrop.",
+          "price": 38.93,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201415.jpg",
+          "image": "Rose99 (2).jpg"
+       }
+    },
+    {
+       "pk": 46,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201665",
+          "name": "Rose lover",
+          "description": "A favorite for the rose lover who wants a little romance and green! In addition to roses, it also contains alstroemeria, thistles and greenery.",
+          "price": 66.53,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201540.jpg",
+          "image": "Rosesli.jpg"
+       }
+    },
+    {
+       "pk": 47,
+       "model": "products.product",
+       "fields": {
+          "sku": "1205004-1006",
+          "name": "A red rose with Teddy Bear",
+          "description": "A red rose decorated with green. Delivered together with our cute teddy bear.",
+          "price": 16.76,
+          "category": "4",
+          "rating": 4.1,
+          "image_url": "https://www.interflora.se/siteassets/produkter/fardiga-paket/1205004_1006_2.jpg",
+          "image": "RoseTd.jpg"
+       }
+    },
+    {
+       "pk": 48,
+       "model": "products.product",
+       "fields": {
+          "sku": "1202285",
+          "name": "Flower wreath ",
+          "description": "“Flower wreath directly translated from English becomes flower crown. This is how it should be worn. Soft fluffy and summery - a flower cone makes every party twice as wonderful. ”",
+          "price": 50.8,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/masterflorist/2021/johan-munter/1202285.jpg",
+          "image": "roundrose.jpg"
+       }
+    },
+    {
+       "pk": 49,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201209",
+          "name": "3 ROSES WITH LARGE TEDDY BEAR",
+          "description": "The rose, the queen of flowers. Placing a vase with only white roses on a table or other place, makes that room breathe of luxury.",
+          "price": 41.4,
+          "category": "4",
+          "rating": 4.1,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201209.jpg",
+          "image": "whiterose.jpg"
+       }
+    },
+    {
+       "pk": 50,
+       "model": "products.product",
+       "fields": {
+          "sku": "1202275",
+          "name": "The feeling of romantic",
+          "description": "“My bouquet of roses should bring to mind a wild castle garden. The feeling is romantic and lively. Here I work with only large-flowered roses and garden roses. Together, there are thousands of petals united in a pastel dream. The bouquet is tied in an uneven playful shape that highlights each flower. ”",
+          "price": 393.77,
+          "category": "4",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/masterflorist/2021/johan-munter/1202276.jpg",
+          "image": "rose.jpg"
+       }
+    },
+    {
+       "pk": 51,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221089",
+          "name": "A high funeral decorations",
+          "description": "The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - Contains lilies, roses, prairie bells, limonium and mixed green. - The decoration is about 45-55 cm high The decoration is delivered with your greeting on a text card, but you can get it on a suitable ribbon. You add it as an option below and the store chooses the color that suits the decoration.",
+          "price": 147.38,
+          "category": "5",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221089.jpg",
+          "image": "high (2).jpg"
+       }
+    },
+    {
+       "pk": 52,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221091",
+          "name": "Bright Memories",
+          "description": "High funeral decoration in the colors of summer. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral.The decoration is delivered with your greeting on a text card, but you can get it on a suitable ribbon. You add it as an option below and the store chooses the color that suits the decoration.",
+          "price": 147.38,
+          "category": "5",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221091.jpg",
+          "image": "high.jpg"
+       }
+    },
+    {
+       "pk": 53,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221086",
+          "name": "More Caring",
+          "description": "A beautiful funeral decoration in cream and apricot colors. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral.The decoration is delivered with your greeting on a text card, but you can get it on a suitable ribbon. You add it as an option below and the store chooses the color that suits the decoration.",
+          "price": 50.8,
+          "category": "5",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221086-2.jpg",
+          "image": "More Care.jpg"
+       }
+    },
+    {
+       "pk": 54,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221016",
+          "name": "longing",
+          "description": "The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - Contains roses in pastel colors and mixed green.",
+          "price": 130.62,
+          "category": "5",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221016.jpg",
+          "image": "longing.jpg"
+       }
+    },
+    {
+       "pk": 55,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221070",
+          "name": "Extra Peace",
+          "description": "The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral.  - Contains prairie bell, carnations, lion's mane and mixed green. - The decoration is about 45-55 cm long.",
+          "price": 116,
+          "category": "5",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221070.jpg",
+          "image": "r2.jpg"
+       }
+    },
+    {
+       "pk": 56,
+       "model": "products.product",
+       "fields": {
+          "sku": "1220011",
+          "name": "A white uneral bouquet",
+          "description": "A hand-tied funeral bouquet in white. At the funeral, a funeral bouquet is placed either lying on the floor or on a smaller stand around the coffin or urn. - Contains carnations, lily, sedum and green. The bouquet is delivered with your greeting on a subtitled card, but you can get it on a suitable ribbon. You add it as an option below and the store chooses the color that suits the bouquet.",
+          "price": 51.88,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1220011.jpg",
+          "image": "r3.jpg"
+       }
+    },
+    {
+       "pk": 57,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201877",
+          "name": "cream & aricot",
+          "description": "A wild and summery bouquet with seasonal flowers - roses, thistles and prairie bell.Perfect courtship to say congratulations, I like you or just show consideration and love now during the summer.",
+          "price": 50.8,
+          "category": "5",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201557.jpg",
+          "image": "r4.jpg"
+       }
+    },
+    {
+       "pk": 58,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221093",
+          "name": "A beautiful funeral decoration",
+          "description": "A beautiful funeral decoration in cream, apricot and green.The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - Contains roses, carnations and alstroemeria. - The decoration is about 35-45 cm high",
+          "price": 197.61,
+          "category": "5",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221093.jpg",
+          "image": "r5.jpg"
+       }
+    },
+    {
+       "pk": 59,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221090",
+          "name": "Bright Memories",
+          "description": "A funeral decoration in a round shape in summer colors. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral.  - Contains roses, alstroemeria, limonium, chrysanthemum and mixed green. - The decoration is about 40-50 cm",
+          "price": 127.66,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221090.jpg",
+          "image": "r6.jpg"
+       }
+    },
+    {
+       "pk": 60,
+       "model": "products.product",
+       "fields": {
+          "sku": "1222039",
+          "name": "Concern",
+          "description": "A beautiful wreath in calm cream and apricot tones. The wreath is created by arranging flowers and greenery in pulp and placing it on the floor or in a position around the coffin or urn at the funeral. - Contains carnations, roses, alstroemeria and mixed greens. - The wreath is about 55 cm in diameter.",
+          "price": 255.9,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1222039.jpg",
+          "image": "r7.jpg"
+       }
+    },
+    {
+       "pk": 61,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221082",
+          "name": "Enternal Rest",
+          "description": "A funeral decoration in a round shape. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - Contains prairie bell, chrysanthemum and thlapsi. - The decoration is about 45 cm in diameter.",
+          "price": 139.31,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221082.jpg",
+          "image": "r8.jpg"
+       }
+    },
+    {
+       "pk": 62,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221080",
+          "name": "Sending Love",
+          "description": "Beautiful funeral decoration in red, white and green.The decoration is created by arranging flowers and greenery in pulp and placing it on the floor around the coffin or urn at the funeral.Beautiful funeral decoration in red, white and green. - Contains roses, prairie bell and mixed green. - Approximately 45 cm in diameter.",
+          "price": 50.8,
+          "category": "5",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221080_1.jpg",
+          "image": "r9.jpg"
+       }
+    },
+    {
+       "pk": 63,
+       "model": "products.product",
+       "fields": {
+          "sku": "1222040",
+          "name": "Beautiful Round",
+          "description": "A very beautiful round wreath in creme and apricot. The wreath is created by arranging flowers and greenery in pulp and placing it on the floor or in a position around the coffin or urn at the funeral. - Contains carnations, roses and alstroemeria and mixed green. - The wreath is about 60 cm in diameter",
+          "price": 50.8,
+          "category": "5",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1222040.jpg",
+          "image": "r67.jpg"
+       }
+    },
+    {
+       "pk": 64,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221043",
+          "name": "3 ROSES WITH LARGE TEDDY BEAR",
+          "description": "Funeral decoration in the shape of a heart. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - containing red roses and mixed green. - The heart is 40-45 cm.",
+          "price": 430.77,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221043.jpg",
+          "image": "r78.jpg"
+       }
+    },
+    {
+       "pk": 65,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221092",
+          "name": "Heart To Heart",
+          "description": "The decoration is created by arranging flowers and greenery in pulp and placing it on the floor or stand around the coffin or urn at the funeral. - Contains roses, alstroemeria and germini. - The heart is 40-45 cm. This product comes with a subtitled card, but you can get your greeting text on a suitable ribbon. You add it as an option below and the store chooses the color that suits the decoration.",
+          "price": 299.03,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221092.jpg",
+          "image": "r97.jpg"
+       }
+    },
+    {
+       "pk": 66,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221088",
+          "name": "Pink-purple ",
+          "description": "A round funeral decorations in pink-purple tones. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - Contains roses, prairie bells, limonium and mixed green. - The decoration is about 45 cm in diameter",
+          "price": 127.66,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221088.jpg",
+          "image": "round1.jpg"
+       }
+    },
+    {
+       "pk": 67,
+       "model": "products.product",
+       "fields": {
+          "sku": "1221087",
+          "name": "Thoughtful",
+          "description": "A beautiful and classic funeral decoration in bright colors. The decoration is created by arranging flowers and greenery in knitting mass and placing it on the floor around the coffin or urn at the funeral. - Contains roses, carnations, alstroemeria and mixed greens. - The decoration is about 45-55 cm high.",
+          "price": 185.95,
+          "category": "5",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/begravning/1221087.jpg",
+          "image": "high22.jpg"
+       }
+    },
+    {
+       "pk": 68,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201527",
+          "name": "You're My Happiness",
+          "description": "The bouquet contains roses, prairie bell, alstromeria and green.",
+          "price": 62.52,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201527.jpg",
+          "image": "r79.jpg"
+       }
+    },
+    {
+       "pk": 69,
+       "model": "products.product",
+       "fields": {
+          "sku": "12011812",
+          "name": "White lilies",
+          "description": "No matter in which room you place a stately bouquet of white lilies, it adorns its place.",
+          "price": 43.82,
+          "category": "5",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201181_1.jpg",
+          "image": "r700.jpg"
+       }
+    },
+    {
+       "pk": 70,
+       "model": "products.product",
+       "fields": {
+          "sku": "12012099",
+          "name": "White Roses",
+          "description": "A beautiful and classic funeral white roses. Inner Peace!",
+          "price": 50.8,
+          "category": "5",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201209.jpg",
+          "image": "r494.jpg"
+       }
+    },
+    {
+       "pk": 71,
+       "model": "products.product",
+       "fields": {
+          "sku": "1298765",
+          "name": "EXCELLENCE Intense Pink Grapefruit Bar 100g",
+          "description": "Close your eyes and discover the finest of pleasures. An intense, dark and smooth chocolate that is complemented with pieces of sun-ripened pink grapefruit. The combination of the finest dark chocolate and pieces of sun-ripened pink grapefruit takes consumers on a wonderful taste journey. As always, the product is a combination of the richest aromas and the best cocoa in a thin masterpiece. Lindt EXCELLENCE Intense Pink Grapefruit - so thin, so intense. SWEETNESS: 2/5 – INTENSITY: 2/5 – NOTES: Pink grapefruit, Citrus fruits, Green apples, Vanilla – PAIRINGS: Blue cheese, Vanilla tea, Olive oil, Rosé wine",
+          "price": 5,
+          "category": "6",
+          "rating": 3.9,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/e/x/excellence-grape-1200x1200px_1.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho1.jpg"
+       }
+    },
+    {
+       "pk": 72,
+       "model": "products.product",
+       "fields": {
+          "sku": "127799664",
+          "name": "EXCELLENCE 70% Mild Bar 100g",
+          "description": "A wild and summery bouquet with seasonal flowers - roses, thistles and prairie bell.Perfect courtship to say congratulations, I like you or just show consideration and love now during the summer.",
+          "price": 5,
+          "category": "6",
+          "rating": 4.6,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/e/x/excellence-70_mild-1200x1200px.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho2.jpg"
+       }
+    },
+    {
+       "pk": 73,
+       "model": "products.product",
+       "fields": {
+          "sku": "120111489",
+          "name": "EXCELLENCE Intense Pear Bar 100g",
+          "description": "EXCELLENCE Intense Pear is a fine dark chocolate with small fine pieces of pear and almond, which together with the dark chocolate gives a balanced and tasty experience. Feel how the taste of pears and almond slices develops gradually and marries whit the flavors of the selected cocoa beans from Ecuador, Madagascar, Ghana and the Caribbean islands in the dark chocolate. This chocolate is created with passion and care by Lindt Master Chocolatiers. Lindt uses two different types of pears (Conference and Limonera) which have a fine-grained pulp with a sweet, aromatic taste. These pears are grown and hand-picked in Spain. ",
+          "price": 5,
+          "category": "6",
+          "rating": 5,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/e/x/excellence-pear-1200x1200px.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho3.jpg"
+       }
+    },
+    {
+       "pk": 74,
+       "model": "products.product",
+       "fields": {
+          "sku": "12018975",
+          "name": "EXCELLENCE Orange Intense Bar 100g",
+          "description": "Lindt EXCELLENCE Dark Orange Chocolate is a bar of rich, luxurious chocolate made with the finest ingredients by our Master Chocolatiers. The perfect blend of intense dark chocolate combines tender pieces of orange and delicious slivers of almond to create an experience to treat the all senses – delight in the smooth texture and deep colour, enjoy the satisfying crisp snap of the exceptionally thin diamonds and cherish the rich aroma before finally indulging in the intense symphony of cocoa flavours as the intense dark Lindt chocolate melts on the tongue. EXCELLENCE Intense Orange contains notes of citrus, roasted almonds and vanilla. SWEETNESS: 4/5 – INTENSITY: 1/5 – NOTES: Citrus, Toasted almonds, Vanilla – PAIRINGS: Roquefort Cheese, Moscato wine, Madeira",
+          "price": 5,
+          "category": "6",
+          "rating": 5,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/e/x/excellence-orange1200x1200px-.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho4.jpg"
+       }
+    },
+    {
+       "pk": 75,
+       "model": "products.product",
+       "fields": {
+          "sku": "129876654",
+          "name": "LINDOR Double Chocolate Bag 137g",
+          "description": "Enjoy irresistibly creamy LINDOR from Lindt! The pralines' delicate shell of the finest Lindt milk chocolate encloses a smooth and creamy dark filling.",
+          "price": 10,
+          "category": "6",
+          "rating": 5,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/5/_/5._lindor_bag_doublechocolate_137g_1200x1200px.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho5.jpg"
+       }
+    },
+    {
+       "pk": 76,
+       "model": "products.product",
+       "fields": {
+          "sku": "120187908",
+          "name": "LINDOR Assorted Bag 137g",
+          "description": "A wild and summery bouquet with seasonal flowers - roses, thistles and prairie bell.Perfect courtship to say congratulations, I like you or just show consideration and love now during the summer.",
+          "price": 9,
+          "category": "6",
+          "rating": 5,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/5/_/5._lindor_bag_new_assorted_137g_1200x1200px_2.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho6.jpg"
+       }
+    },
+    {
+       "pk": 77,
+       "model": "products.product",
+       "fields": {
+          "sku": "12018976",
+          "name": "LINDOR Mini Eggs Milk 100g",
+          "description": "Enjoy irresistibly creamy LINDOR from Lindt for Easter. Small egg-shaped pralines with a delicate shell of the finest Lindt milk chocolate with a smooth and creamy filling of milk chocolate.",
+          "price": 10,
+          "category": "6",
+          "rating": 4.9,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/1/1/11._lindor_mini_eggs_milk_100g_1200x1200mm.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho7.jpg"
+       }
+    },
+    {
+       "pk": 78,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201877",
+          "name": "LINDOR Mini Eggs Assorted 100g",
+          "description": "Enjoy an unforgettable moment with LINDOR eggs that belongs only to you: When the fine chocolate coating melts on your tongue and the infinitely tender filling gently touches all your senses, LINDOR takes you to a place where chocolate dreams come true - a colorful mix with the LINDOR egg varieties Milk, Dark and White chocolate. Also perfect to put in Easter eggs and decorative on the table. Comes in mixed colors.",
+          "price": 10,
+          "category": "6",
+          "rating": 4.9,
+          "image_url": "https://www.lindt-nordic.com/media/catalog/product/1/2/12._lindor_mini_eggs_assorted_100g_1200x1200mm.png?quality=80&fit=bounds&height=700&width=700&canvas=700:700",
+          "image": "cho8.jpg"
+       }
+    },
+    {
+       "pk": 79,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257038",
+          "name": "Meraki Spa",
+          "description": "Meraki is a skin care series developed in Denmark with natural ingredients. The series' skin care products care for both body and soul and have a natural and refreshing scent. Content: - Hand soap Linen Dew: caring and effective with blueberries and nettle extract, 490 ml - Scented candle Green Herbal: burning time 12 hours",
+          "price": 32.14,
+          "category": "7",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/meraki/1257038-4.jpg",
+          "image": "gfit2.jpg"
+       }
+    },
+    {
+       "pk": 80,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258044",
+          "name": "Ernst Vases",
+          "description": "In ERNST round vases in stoneware with leather straps, you can create beautiful mammoth flower arrangements. Height: 22 cm Diameter: 21 cm Material: Stoneware, leather Color: Dark gray Dishwasher safe",
+          "price": 50.8,
+          "category": "7",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/ernst/1258044.jpg",
+          "image": "gfit12.jpg"
+       }
+    },
+    {
+       "pk": 81,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257080",
+          "name": "Barbecues flavors",
+          "description": "This summer's barbecue flavors are a tasty gift box that contains: - Honey glaze - Marinade with a taste of thym  - BBQ sauce sweet strong - Bondens Rub - Paprika powder - Haggis & Cracked black pepper chips",
+          "price": 57.81,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1257080_745px.jpg",
+          "image": "gift1.jpg"
+       }
+    },
+    {
+       "pk": 82,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258013",
+          "name": "Smoked oak",
+          "description": "The dog Tim is man's best friend and has been designed since 1935. A nice gift for all dog lovers and a decoration that accompanies throughout life.",
+          "price": 40.75,
+          "category": "7",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/confident-living/1258013-2.jpg",
+          "image": "gift3.jpg"
+       }
+    },
+    {
+       "pk": 83,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257064",
+          "name": "Monkey",
+          "description": "Beloved monkeys have got a little sibling, a little monkey in miniature. Apa mini is a novelty and one of the latest versions of the original that was designed in 1951. The little wooden monkey is a perfect little gift for both big and small.",
+          "price": 145.83,
+          "category": "7",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/confident-living/1258014-m2.jpg",
+          "image": "gift4.jpg"
+       }
+    },
+    {
+       "pk": 84,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257069",
+          "name": "Light Vases",
+          "description": "Lighting candles and jewelry with a couple of small vases creates warmth and tranquility in the home. ERNST straight candle lanterns are suitable for tealights and any flower to brighten up with. Height: 8 cm and 12 cm Diameter: Ø 5 cm and Ø 6.5 cm Material: Glass, leather Color: Transparent Hand wash is recommended",
+          "price": 32.11,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/ernst/1257069-2.jpg",
+          "image": "gift5.jpg"
+       }
+    },
+    {
+       "pk": 85,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258086",
+          "name": "Delicious chocolate Balls",
+          "description": "Delicious chocolate balls delivered in a stylish cylindrical box from Cocoture. A mixture of chocolate balls with a taste of licorice and caramel. Weight: 480 g. Contains soy, milk and whey. * May contain traces of nuts, peanuts and gluten.",
+          "price": 34.44,
+          "category": "7",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/pask/1090.jpg",
+          "image": "gift6.jpg"
+       }
+    },
+    {
+       "pk": 86,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257066",
+          "name": "3 ROSES WITH LARGE TEDDY BEAR",
+          "description": "A wonderfully soft and luxurious blanket in 100% cashmere from Siggelou that fits perfectly as a gift for a newborn and becomes a true companion for a long time. Size 85 * 85 cm. Hand wash or 30 degrees in wool program in washing machine. Do not tumble dry.",
+          "price": 148.87,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1257066.jpg",
+          "image": "gift7.jpg"
+       }
+    },
+    {
+       "pk": 87,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258087",
+          "name": "Delicatessen Box luxury",
+          "description": "The very best for the connoisseur! Delicatessen box luxury are well-chosen flavors for an extra golden edge to life. Send this luxury box to someone you like! Content: - Organic olive oil - Kalamata Oliver - Cantuccini snack with tomato and oregano - Taped black olives - Miss Biscuit - Pesto with lemon",
+          "price": 51.93,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1258087.jpg",
+          "image": "gift8.jpg"
+       }
+    },
+    {
+       "pk": 88,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257074",
+          "name": "Fragrant Box",
+          "description": "A fragrant package from Meraki. Create a fresh and clean atmosphere in your home with room spray. With just one or two sprays, you can experience how a room spray leaves a fresh and aromatic atmosphere in the home. The spray is inspired by white tea and can be used in all rooms. Contains: - Scented candle Green Herbal: burning time 35 hours - Roomspray Rain forest 100ml.",
+          "price": 49.6,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/meraki/doftbox_1257049_745px-ny.jpg",
+          "image": "gift9.jpg"
+       }
+    },
+    {
+       "pk": 89,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257017",
+          "name": "Silver Bracelet",
+          "description": "Silver bracelet with a small heart, the perfect gift when you want to give something a little extra. The jewelry is made of sterling silver 925 and is delivered in a small black organza bag with drawstring.",
+          "price": 32.06,
+          "category": "7",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1257017.jpg",
+          "image": "gift10.jpg"
+       }
+    },
+    {
+       "pk": 90,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257076",
+          "name": "Love Birds",
+          "description": "The small turtle doves come in sets of two that stand beak to beak. A real love couple, nice to have both on the desk and in the window frame. Give away a little reminder of love. Material: FSC®-certified Naturek and smoked oak. Height: 8.8 cm The gift is sent as a package with Postnord and is picked up at the nearest delivery point. The recipient is notified.",
+          "price": 127.57,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/confident-living/1258005-2.jpg",
+          "image": "gift11.jpg"
+       }
+    },
+    {
+       "pk": 91,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258075",
+          "name": "Mulford Pot",
+          "description": "New - gray-green ceramic pot Perfect for the smaller planting or for putting fruit or vegetables in.Diameter: 16 cm Height: 9 cm",
+          "price": 11.07,
+          "category": "7",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1258075.jpg",
+          "image": "gift13.jpg"
+       }
+    },
+    {
+       "pk": 92,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258005",
+          "name": "Vas Glas",
+          "description": "Light green flower vase in hand-blown glass from Georg Jensen, designed by Alfredo Häberli. Comes wrapped in elegant gift wrap, luxurious string and green. Color: Green Diameter: 22.3 cm Height: 25 cm Material: Hand-blown glass",
+          "price": 93.13,
+          "category": "7",
+          "rating": 4.7,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/confident-living/1258005-2.jpg",
+          "image": "gift14.jpg"
+       }
+    },
+    {
+       "pk": 93,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258080",
+          "name": "Decorative Dishes",
+          "description": "Jamar decorative dishes from House Doctor have many creative roles. Place it in the middle of the dinner table and decorate with your favorite flowers or plants. Show off your most beautiful possessions by creating a still life with Jamar as the stage. Only your imagination sets the limits.",
+          "price": 135.8,
+          "category": "7",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1258080.jpg",
+          "image": "gift15.jpg"
+       }
+    },
+    {
+       "pk": 94,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257064",
+          "name": "Beloved Monkeys ",
+          "description": "Kay Bojesen's beloved monkeys have got a little sibling, a little monkey in miniature. Apa mini is a novelty and one of the latest versions of the original that was designed in 1951. The little wooden monkey is a perfect little gift for both big and small.",
+          "price": 50.8,
+          "category": "7",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/confident-living/1257064.jpg",
+          "image": "gift16.jpg"
+       }
+    },
+    {
+       "pk": 95,
+       "model": "products.product",
+       "fields": {
+          "sku": "1201877",
+          "name": "3 ROSES WITH LARGE TEDDY BEAR",
+          "description": "A wild and summery bouquet with seasonal flowers - roses, thistles and prairie bell.Perfect courtship to say congratulations, I like you or just show consideration and love now during the summer.",
+          "price": 50.8,
+          "category": "7",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201557.jpg",
+          "image": "BB45 (1).jpg"
+       }
+    },
+    {
+       "pk": 96,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257042",
+          "name": "Cozy Combo",
+          "description": "(BUY 2 GET 3)Good Earl Gray tea with a taste of grapefruit. This tea blend is made from black tea with a delicious, natural aroma of grapefruit. Black tea is a true classic - but with this wonderful twist of grapefruit, a whole new world will open up. Pour 100 ° C hot water over the tea and let it soak for 3-4 minutes to achieve the perfect taste experience.",
+          "price": 26.25,
+          "category": "8",
+          "rating": 4.5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/meraki/1257042-6.jpg",
+          "image": "del1.jpg"
+       }
+    },
+    {
+       "pk": 97,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258042",
+          "name": "ERNST candle ",
+          "description": "(BUY 2 GET 3)ERNST candle lantern is classic, beautiful to look at and gives a wonderful feeling in the home. In and with the metal spike in the middle, you can choose to use a candle or block candle.",
+          "price": 43.74,
+          "category": "8",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/ernst/1258042-m1.jpg",
+          "image": "del2.jpg"
+       }
+    },
+    {
+       "pk": 98,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257072",
+          "name": "The breakfast box",
+          "description": "(BUY 1 GET 2)The breakfast box offers a luxurious start to the day. With our selected favorites, your gift will be appreciated! Content: - Coffee Twinrost - Lemoncurd - Granola hazelnut / date / almonds - Organic bread mix, Crusty Morning ",
+          "price": 57.73,
+          "category": "8",
+          "rating": 4.9,
+          "image_url": "https://www.interflora.se/siteassets/produkter/1201557.jpg",
+          "image": "del3.jpg"
+       }
+    },
+    {
+       "pk": 99,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258078",
+          "name": "Lantern",
+          "description": "(BUY 1 GET 2)Cozy in the winter darkness. A trendy lantern in black metal and glass. This variant is the lower of the two different lanterns.",
+          "price": 46.06,
+          "category": "8",
+          "rating": 4.1,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1258078.jpg",
+          "image": "del4.jpg"
+       }
+    },
+    {
+       "pk": 100,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257060",
+          "name": "Hand Alcohol",
+          "description": "(BUY 1 GET 2)Moisturizing hand alcohol from Stockholms Bränneri with a fresh scent of gin. Stockholms Bränneri moisturizing hand alcohol made from heads / tails from gin production.",
+          "price": 22.73,
+          "category": "8",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1257060-m1.jpg",
+          "image": "del5.jpg"
+       }
+    },
+    {
+       "pk": 101,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257082",
+          "name": "The games and coffee box ",
+          "description": "(BUY 2 GET 3)Summer does not always mean sun and swimming. The games and coffee box is perfect for those slightly rainier summer days. The box contains a yatzy game, double decks of cards, tea and cakes. Table of Contents: - Black tea: Södermalm mixture 100 grams - Sugar-free choco chip cakes in cardboard box 150 grams",
+          "price": 46.06,
+          "category": "8",
+          "rating": 4,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1257082_745px.jpg",
+          "image": "del6.jpg"
+       }
+    },
+    {
+       "pk": 102,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258074",
+          "name": "Vase pion",
+          "description": "(BUY 2 GET 3)Peony from House Doctor has a rustic, dark color with reactive glaze. Peony has many uses, the dramatic little carafe on the dinner table, or as a stylish mini vase for your favorite flowers. Whatever it is used for, it makes a statement where it stands.",
+          "price": 50.8,
+          "category": "8",
+          "rating": 4.6,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/house-doctor/1258074-m2.jpg",
+          "image": "del7.jpg"
+       }
+    },
+    {
+       "pk": 103,
+       "model": "products.product",
+       "fields": {
+          "sku": "1257015",
+          "name": "Earring",
+          "description": "(BUY 1 GET 2)Earring in female symbol, about 1 cm high. Sold individually. The jewelry is made of sterling silver and is delivered in a small black organza bag with drawstring.",
+          "price": 13.99,
+          "category": "8",
+          "rating": 4.5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/tillval/1071.jpg",
+          "image": "del8.jpg"
+       }
+    },
+    {
+       "pk": 104,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258043",
+          "name": "Vases in stoneware ",
+          "description": "(BUY 1 GET 2)In ERNST round vases in stoneware with leather straps you can create beautiful flower arrangements. Height: 14 cm Diameter: 13 cm Material: Stoneware, leather Color: White Dishwasher safe ",
+          "price": 26.24,
+          "category": "8",
+          "rating": 4.2,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/ernst/1258043.jpg",
+          "image": "del9.jpg"
+       }
+    },
+    {
+       "pk": 105,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258076",
+          "name": "Tray",
+          "description": "(BUY 1 GET 2)light dish in burgundy. Collect your candles or small vases or pots on this modern tray / candle dish.",
+          "price": 14.58,
+          "category": "8",
+          "rating": 4.5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1258076.jpg",
+          "image": "del10.jpg"
+       }
+    },
+    {
+       "pk": 106,
+       "model": "products.product",
+       "fields": {
+          "sku": "1258017",
+          "name": "Candel Lantern",
+          "description": "(BUY 1 GET 2)This beautiful candle lantern is designed by Lena Bergström who is inspired by precious stones and jewels. The lantern works just as well in the window as on a set table.",
+          "price": 34.88,
+          "category": "8",
+          "rating": 5,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/confident-living/1258017.jpg",
+          "image": "del11.jpg"
+       }
+    },
+    {
+       "pk": 107,
+       "model": "products.product",
+       "fields": {
+          "sku": "1285067",
+          "name": "Eucalyptus ",
+          "description": "(BUY 1 GET 2)ucalyptus creates an elegant feeling in your decoration thanks to the detailed leaves. Hang on the wall or place on the coffee table along with candles and ornaments in your favorite colors.",
+          "price": 90.41,
+          "category": "8",
+          "rating": 4,
+          "image_url": "https://www.interflora.se/siteassets/produkter/choklad--gavor/1285067.jpg",
+          "image": "del12.jpg"
+       }
+    }
+ ]

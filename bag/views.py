@@ -1,5 +1,4 @@
-from django.shortcuts import (
-    render, redirect, reverse, HttpResponse, get_object_or_404)
+from django.shortcuts import render, redirect, reverse, HttpResponse, get_object_or_404
 from django.contrib import messages
 from products.models import Product
 # Create your views here.
@@ -64,4 +63,3 @@ def remove_from_bag(request, item_id):
     except Exception as e:
         messages.error(request, f'Error removing item: {e}.')
         return HttpResponse(status=500)
-        

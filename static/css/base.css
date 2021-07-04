@@ -42,9 +42,8 @@ body {
 }
 
 .btn-outline-black {
-    background: white;
-    color: rgb(231, 101, 101) ; /* use important to override link colors for <a> elements */
-    border: 1px solid black;
+    background: rgb(231, 101, 101) ;
+    color: white !important;
 }
 
 .btn-outline-black:hover,
@@ -61,7 +60,7 @@ body {
 .btn-black:active,
 .btn-black:focus {
     background: rgb(231, 101, 101) ;
-    color: white;
+    color: white !important;
 }
 
 .text-black {

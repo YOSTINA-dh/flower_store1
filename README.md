@@ -1,59 +1,41 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# FLOWERSTORE
 
-Welcome YOSTINA-dh,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+![Mockup]()
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+[Live Website]()
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
+# User Experience & User Interface
 
-Another blue button should appear to click: _Open Browser_.
+## PURPOSE
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The concept of my Full-Stack Development Milestone is to create an E-commerce shop selling flowers.  
 
-A blue button should appear to click: _Make Public_,
+The purpose of this project is to create an e-commerce platform for a small business that is selling flowers by categories ( Different bouquets, funerals, and special items). 
 
-Another blue button should appear to click: _Open Browser_.
+This Project is demostrating not only the understanding of Django & Python and combines it with HTML, CSS & Javascript, but also is demonstrating the understanding of an authentication mechanism, a payment method provider (Stripe) and the use of a relational database.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The app was built using GitHub and deployed to Heroku, with all of static files stored with AWS.
 
-To log into the Heroku toolbelt CLI:
+## DESIGN 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### RESEARCH
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+![Research](https://www.interflora.se/interflora/produktkategorier/visa-alla-produkter/#!/),(flower_store/media/interflora.jpg)
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### COLOUR SCHEMA
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+* For this concept of FLOWERSTORE E-commerce, I decided to use Light Nude Colors that are really pleasing and minimalist for the eye. 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+* "According to color psychology, the nude color infers sentiments of warmth, solace, and security. It’s frequently portrayed as usual, practical, and ordinary, yet this tone of brown likewise be modern and sophisticated." - Gotodesigno.com
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+* The combinations of colors that I used it's:  
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+**#C4788B**
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+**#FFFFFF**
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+**#000000**

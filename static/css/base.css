@@ -243,7 +243,7 @@ input[name='q']::placeholder {
 }
 
 .allauth-form-inner-content a {
-	color: #17a2b8; /* text-info */
+	color: rgb(236, 150, 150)  !important;/* text-info */
 }
 
 /* fixed top navbar only on medium and up */

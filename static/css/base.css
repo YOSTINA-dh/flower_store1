@@ -224,7 +224,7 @@ input[name='q']::placeholder {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: rgb(236, 150, 150)  !important;
+    background-color: rgb(231, 167, 167)  !important;
     border: 1px solid #fff;
     padding: .375rem .75rem;
     font-size: 1rem;
@@ -238,12 +238,12 @@ input[name='q']::placeholder {
 .allauth-form-inner-content button:hover,
 .allauth-form-inner-content input[type='submit']:hover {	
 	color: #fff;
-    background-color: rgb(236, 150, 150)  !important;
+    background-color: rgb(240, 194, 194)  !important;
     border-color: #fff;
 }
 
 .allauth-form-inner-content a {
-	color: rgb(236, 150, 150)  !important;/* text-info */
+	color: rgb(243, 123, 123)  !important;/* text-info */
 }
 
 /* fixed top navbar only on medium and up */

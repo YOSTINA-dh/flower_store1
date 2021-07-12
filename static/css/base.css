@@ -146,7 +146,7 @@ input[name='q']::placeholder {
 
 /* Convenience classes - colors copied from Bootstrap */
 .arrow-primary {
-    border-bottom-color: #007bff !important;
+    border-bottom-color: rgb(231, 167, 167)  !important;
 }
 
 .arrow-secondary {

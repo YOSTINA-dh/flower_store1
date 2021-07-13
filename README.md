@@ -44,7 +44,7 @@ The app was built using GitHub and deployed to Heroku, with all of static files 
 
 I decided to create a simple minimalistic Logo by using Homemade Apple font from Google Fonts, that allows to have an improved visual polish and professional appearance. 
 
-![Logo]()
+![Logo](https://i.ibb.co/Qv0DWZz/logo.png)
 
 ### TYPHOGRAPHY
 

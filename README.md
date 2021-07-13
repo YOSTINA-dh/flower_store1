@@ -23,7 +23,7 @@ The app was built using GitHub and deployed to Heroku, with all of static files 
 
 ### RESEARCH
 
-![Research](https://ibb.co/0F17tqj)
+![Research](https://i.ibb.co/VQb1mVW/interflora.png)
 
 
 ### COLOUR SCHEMA

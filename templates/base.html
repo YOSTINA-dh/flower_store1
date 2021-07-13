@@ -114,7 +114,83 @@
             </div>              
         </div>
     </header>
-  
+
+    {% if messages %}
+    <div class="message-container"></div>
+    {% endif %}
+
+    {% block page_header %}
+    {% endblock %}
+
+    {% block content %}
+    {% endblock %}
+    <!--FOOTER-->
+    <hr>
+     <footer>
+        <div class="footer fixed-bottom" id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                        <h3> CONTACT </h3>
+                        <ul>
+                            <li> <a href="mailto:flowerstore@gmail.com"><small>flowerstore@gmail.com</small></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                        <h3> ABOUT</h3>
+                        <ul>
+                            <li> <a href="{% url 'flower_store' %}"> FlowerStore </a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                        <h3> ACCOUNT </h3>
+                        <ul>
+                            <li> <a href="{% url 'account_login' %}"> LOG IN </a> </li>
+                            <li> <a href="{% url 'account_signup' %}"> REGISTER </a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6 ">
+                        <h3> PAYMENTS</h3>
+                        <p class="payments"><i class="fa fa-cc-visa lg"></i>
+                            <i class="fa fa-cc-mastercard"></i>
+                            <i class="fa fa-cc-amex"></i>
+                            <i class="fa fa-cc-paypal"></i></p>
+                    </div>
+                    <div class="col-lg-3  col-md-3 col-sm-6 col-xs-12 ">
+                        <h3> Newsletter </h3>
+                        <ul>
+                            <li>
+                                <div class="input-append newsletter-box text-center">
+                                    <input type="text" class="full text-center" placeholder="Email ">
+                                    <button class="btn"> Subscribe </button>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="social">
+                            <li> <a href="https://www.facebook.com/" target="_blank"> <i class=" fa fa-facebook">   </i> </a> </li>
+                            <li> <a href="https://twitter.com/" target="_blank"> <i class="fa fa-twitter">   </i> </a> </li>
+                            <li> <a href="https://www.amazon.se/" target="_blank" > <i class="fa fa-amazon">   </i> </a> </li>
+                            <li> <a href="https://www.pinterest.se/" target="_blank"> <i class="fa fa-pinterest">   </i> </a> </li>
+                            <li> <a href="https://www.etsy.com/" target="_blank"> <i class="fa fa-etsy">   </i> </a> </li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/.row-->
+            </div>
+            <!--/.container-->
+        </div>
+        <!--/.footer-->
+
+        <div class="footer-bottom">
+            <div class="container text-center">
+                <p class=""> Copyright © FlowerStore by Yostina Desta. This website is for Educational Purposes only. </p>
+            </div>
+        </div>
+        <!--/.footer-bottom-->
+    </footer>
+
+  <!--Container for displaying Django Messages using toasts templates-->
     {% if messages %}
         <div class="message-container">
             {% for message in messages %}

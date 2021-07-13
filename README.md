@@ -531,6 +531,6 @@ The live website, hosted on gitpages, has been opened and tested on multiple bro
 
 ## ACNOWLEDGEMENTS
 
-All code institute society for all support and patience
+All CodeInstitute society for all support and patience
 
 Slack Community of Code Institute.

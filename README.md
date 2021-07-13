@@ -23,7 +23,7 @@ The app was built using GitHub and deployed to Heroku, with all of static files 
 
 ### RESEARCH
 
-![Research](https://www.interflora.se/interflora/produktkategorier/visa-alla-produkter/#!/),(flower_store/media/interflora.jpg)
+![Research](https://ibb.co/0F17tqj)
 
 
 ### COLOUR SCHEMA

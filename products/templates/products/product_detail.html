@@ -44,18 +44,12 @@
                 <small class="text-black">No Rating</small>
                 {% endif %}
                 {% if request.user.is_superuser %}
-                    <small class="ml-3">
-                        <a href="{% url 'edit_product' product.id %}">Edit</a> | 
-                        <a class="text-danger" href="{% url 'delete_product' product.id %}">Delete</a>
-                        </small>
-                {% endif %}                     
-                {% if request.user.is_superuser %}
                 <div class="row">
                     <small class="ml-3">
-                        <a href="" class=" font-weight-bold"
+                        <a href="{% url 'edit_product' product.id %}" class=" font-weight-bold"
                             style="color: #BC7B6A;">Edit</a> |
                         <a class="font-weight-bold" style="color: #6d3a15;"
-                            href="">Delete</a>
+                            href="{% url 'delete_product' product.id %}">Delete</a>
                     </small>
                 </div>
                 {% endif %}

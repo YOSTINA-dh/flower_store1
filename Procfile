@@ -1,1 +1,2 @@
-web: gunicorn flowerstore.wsgi:application
+web: gunicorn flower_store.wsgi:application
+
